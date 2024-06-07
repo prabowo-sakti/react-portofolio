@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Todo Check",
+    "imageSrc": "projects/to-do-list.webp",
+    "description": "Ini merupakan projek to-Do List yang saya buat dengan fitur dimana ketika menceklis task, akan memberikan style teks line-through",
+    "skills": ["React"],
+    "demo": "https://prabowosakti.com/todo-check",
+    "source": "https://github.com/prabowo-saktii/todo-check"
+  },
+  {
+    "title": "Personal Blog",
+    "imageSrc": "projects/cms.webp",
+    "description": "Ini merupakan projek blog pribadi menggunakan CMS untuk membuat, menghapus, dan mengelola konten",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": " E-Commerce",
+    "imageSrc": "projects/ecommerce.webp",
+    "description": "Ini merupakan projek e-commerce yang mengikuti salah satu e-commerce populer di indonesia",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
